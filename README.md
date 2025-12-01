@@ -1,6 +1,6 @@
 # Checkpoint3: Game Test Summary
 
-For my game, A Cat's Quest, I had five different questions I asked three game testers below. My findings resulted in a similar result, which can be found in the summary section.
+For my game, A Cat's Quest, I had five different questions I asked three game testers below. My findings resulted in various thoughts and suggestions from the game testers, which can be found in the summary section.
 
 ## 5 Questions for Game Testers
 **1. What vibe does the game give off?**

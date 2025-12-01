@@ -9,7 +9,7 @@ For my game, A Cat's Quest, I had five different questions I asked three game te
 
 **3. Did you ever feel stuck or unsure of where to go next?**
 
-**4. Did the dialogue with the Owner feel natural? Was the text easy to read, and did you understand your goal after the conversation?**
+**4. Did the dialogue feel natural? Was the text easy to read, and did you understand your goal after the conversation?**
 
 **5. What are some suggestions on how to complete the game?**
 
